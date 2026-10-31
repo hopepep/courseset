@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cfg_1793412126621",
+    "name": "10k test",
+    "config": {
+      "runnerCount": "1000",
+      "startTime": "09:00",
+      "meanPace": "6:23",
+      "paceStdDev": "1:23",
+      "bestPace": "3:44",
+      "worstPace": "12:48",
+      "skewness": "-2.9",
+      "startFlowRate": "50"
+    },
+    "savedAt": "2026-10-31T02:02:06.621Z"
+  }
+]

@@ -14,5 +14,21 @@
     },
     "year": 2026,
     "savedAt": "2026-11-02T01:33:10.959Z"
+  },
+  {
+    "id": "cfg_1793583348362",
+    "name": "27 화성궁평항 half",
+    "config": {
+      "runnerCount": "1000",
+      "startTime": "09:05",
+      "meanPace": "5:55",
+      "paceStdDev": "1:06",
+      "bestPace": "3:27",
+      "worstPace": "10:56",
+      "skewness": "0",
+      "startFlowRate": "10"
+    },
+    "year": 2026,
+    "savedAt": "2026-11-02T01:35:48.362Z"
   }
 ]

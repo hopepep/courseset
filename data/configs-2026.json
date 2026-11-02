@@ -30,5 +30,21 @@
     },
     "year": 2026,
     "savedAt": "2026-11-02T01:35:48.362Z"
+  },
+  {
+    "id": "cfg_1793583538036",
+    "name": "27 화성궁평항 10k",
+    "config": {
+      "runnerCount": "500",
+      "startTime": "09:10",
+      "meanPace": "5:47",
+      "paceStdDev": "1:17",
+      "bestPace": "3:27",
+      "worstPace": "12:20",
+      "skewness": "0",
+      "startFlowRate": "10"
+    },
+    "year": 2026,
+    "savedAt": "2026-11-02T01:38:58.036Z"
   }
 ]

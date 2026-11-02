@@ -1,21 +1,5 @@
 [
   {
-    "id": "cfg_1793582173507",
-    "name": "27 화성궁평항 하프",
-    "config": {
-      "runnerCount": "1000",
-      "startTime": "09:05",
-      "meanPace": "6:00",
-      "paceStdDev": "1:07",
-      "bestPace": "3:53",
-      "worstPace": "10:30",
-      "skewness": "0",
-      "startFlowRate": "10"
-    },
-    "year": 2026,
-    "savedAt": "2026-11-02T01:16:13.507Z"
-  },
-  {
     "id": "cfg_1793583190959",
     "name": "27 화성궁평항 32k",
     "config": {
